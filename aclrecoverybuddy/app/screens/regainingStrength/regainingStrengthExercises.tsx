@@ -10,7 +10,7 @@ export default function RegainingStrengthExercises() {
 
   return (
     <View>
-      <HeaderWithSettings title='Regaining Strength Exercises' />
+      <HeaderWithSettings title='Building Strength Exercises' />
 
       <View style={styles.textContainer}>
         <Spacer height={16}/>
